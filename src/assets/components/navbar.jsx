@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const navbar = () => {
   return (
     <div className='nav'>
@@ -14,4 +15,5 @@ const navbar = () => {
 }
 
 export default navbar
+
 
